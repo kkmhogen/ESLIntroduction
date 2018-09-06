@@ -1,0 +1,8 @@
+1.网关的集成指导和网关的安装配置指导。
+https://github.com/kkmhogen/ESLIntroduction.git
+
+2. 客户端软件Demo，支持连接MQTT服务器地址，基于Java1.7版本开发。
+https://github.com/kkmhogen/KGatewayClientDemo.git
+
+3. 将BMP格式的图片转换为MQTT的JSON消息的Demo，基于C/C++语言实现，采用Visual Studio2012开发。
+https://github.com/kkmhogen/Bmp2EslJson.git

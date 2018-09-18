@@ -1,0 +1,13 @@
+1.基站的安装配置指导，测试指导，以及基站对外开放的API和集成指导。
+https://github.com/kkmhogen/ESLIntroduction.git
+
+2. 客户端软件Demo，支持连接MQTT服务器地址，基于Java1.7版本开发。
+https://github.com/kkmhogen/KGatewayClientDemo.git
+
+3. 将BMP格式的图片转换为MQTT的JSON消息的Demo，基于C/C++语言实现，采用Visual Studio2012开发。
+https://github.com/kkmhogen/Bmp2EslJson.git
+
+测试方法：
+1、把价格转换为Bmp图片（需要您的程序完成或者手工绘制）
+2、通过上面第3个demo工具把图片转换为MQTT JSON消息。
+3、运行客户端软件Demo，连接到MQTT服务器，并把第二步生成的图片（包含在MQTT JSON消息中）下发。

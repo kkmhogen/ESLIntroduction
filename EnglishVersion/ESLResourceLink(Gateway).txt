@@ -1,8 +1,11 @@
 1.ESL gateway api and document
-https://github.com/kkmhogen/ESLIntroduction.git
+https://github.com/kkmhogen/ESLIntroduction/tree/master/EnglishVersion/01ESLGatewayApiSpecification
 
-2. Mqtt client demo
+2. ESL picture format specification:
+https://github.com/kkmhogen/ESLIntroduction/tree/master/EnglishVersion/00ESLPictureFormatSpecification
+
+3. Mqtt client demo
 https://github.com/kkmhogen/KGatewayClientDemo.git
 
-3. The Demo for converting BMP format images into MQTT JSON messages is based on C/C++ language and developed with Visual Studio 2012.
+4. The Demo for converting BMP format images into MQTT JSON messages is based on C/C++ language and developed with Visual Studio 2012.
 https://github.com/kkmhogen/Bmp2EslJson.git
